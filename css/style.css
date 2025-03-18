@@ -2,3 +2,17 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+body {
+    background-color: rgb(197, 176, 180);
+}
+
+h1 {
+    background-color:black;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #fff700;
+}
